@@ -1,1 +1,1 @@
-﻿git is very good
+﻿git is a very good version manage tool
